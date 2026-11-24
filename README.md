@@ -53,3 +53,14 @@ Open the local URL shown by Vite (usually http://localhost:5173).
 - Dashboard progress is stored in localStorage in the current browser only.
 - Coding Practice is a prompt-and-notes module; it does not compile or run code.
 - This project does not connect to Google, an employer ATS, or external job databases.
+
+**HireMate AI – Placement Preparation Platform**
+
+- Developed a web-based placement preparation platform using React, Vite, Python, and FastAPI.
+- Implemented PDF resume text extraction and heuristic ATS-style scoring with skill detection and improvement suggestions.
+- Built a job description matching module to identify matched and missing skills.
+- Deployed the frontend on Vercel and backend on Render.
+
+**Live Demo:** https://hire-mate-5sfvwtcxt-janaranjan-ks-projects.vercel.app
+
+**GitHub:** https://github.com/janaranjan-ai/HireMate-AI
