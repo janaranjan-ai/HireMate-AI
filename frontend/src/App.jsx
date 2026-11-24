@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import "./App.css";
 
-const API = "http://127.0.0.1:8000";
+const API = "https://hiremate-ai-backend-sffs.onrender.com";
 
 const features = [
   { title: "Resume Analyzer", icon: "📄", desc: "ATS-style score, keyword coverage, sections and actionable feedback." },
